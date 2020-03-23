@@ -1,19 +1,37 @@
 # Genci
-* Christelle  
+* **Christelle** 
 * Generic message on Genci role
 
 # Technology watch group
-* Christelle, Cyrill, Laurent  
+* **Christelle, Cyrill, Laurent**  
 * Overview of the Technology Group
 
 # Inti prototype
-* Laurent / Christelle
+* **Laurent / Christelle**
 * Hardware description, E-Dari, Settings
 
 # Applicative domains
-* ALL
+* **ALL**
 * Apps description, links
 
- # Robust software ecosystem
- * Laurent
- * Graphs, Comments
+
+
+ # Bootstrapping a robust software ecosystem
+ * **Laurent** 
+ * graphs, comments
+ 
+ #  Impact on applicative performances
+ * **ALL**
+ * One plot with all apps, Scaling wrt nodes count, comments
+ * cf  scaling.xlsx spreadsheet
+ 
+ # Arm Instruction Emulator
+ * Fabrice
+ * Release recap,  Challenges of complex Apps profiling (RoI)
+ 
+ # SVE performance characterization 
+ * **ALL**
+ * Few representatives apps (two plots per app)
+ 1. SVE ratio wrt VL
+ 2. Mix of instructions
+ * cf sve.xlsx spreadsheet
