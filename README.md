@@ -12,9 +12,11 @@
 
 # Applicative domains
 * **ALL**
-* Apps description, links
-
-
+* CFD (AVBP, Yales2)
+* Climate (Nemoh, Dynamico)
+* Seismic (SpecFEM3D)
+* Neutronic (Patmos, Dumses)
+* Mini-app (Hydro-F)
 
  # Bootstrapping a robust software ecosystem
  * **Laurent** 
@@ -35,3 +37,5 @@
  1. SVE ratio wrt VL
  2. Mix of instructions
  * cf sve.xlsx spreadsheet
+ 
+ # Conclusion
