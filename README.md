@@ -1,6 +1,6 @@
 Target : https://community.arm.com/b/hpc
 
-# OUTLINE
+# OUTLINE (Tentative)
 
 ## Genci
 * **Christelle** 
