@@ -14,7 +14,7 @@ Target : https://community.arm.com/b/hpc
 * **Laurent / Christelle**
 * Hardware description, E-Dari, Settings
 
-## Applicative domains
+## Description of the applications
 * **ALL**
 * CFD (AVBP, Yales2)
 * Climate (Nemoh, Dynamico)
