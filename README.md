@@ -19,9 +19,11 @@
 ## Description of the applications
 * **ALL**
 * CFD (AVBP, Yales2)
-* Climate (Nemoh, Dynamico)
+* Climate (Nemo, Dynamico)
 * Seismic (SpecFEM3D)
 * Neutronic (Patmos, Dumses)
+* Material Science (BigDFT)
+* Fusion (Gysela)
 * Mini-app (Hydro-F)
 
  ## Bootstrapping a robust software ecosystem
