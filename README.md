@@ -38,8 +38,10 @@ Target : https://community.arm.com/b/hpc
  ## SVE performance characterization 
  * **ALL**
  * Few representatives apps (two plots per app)
- 1. SVE ratio wrt VL
- 2. Mix of instructions
- * cf sve.xlsx spreadsheet
+ 1. Native vs SVE ratio 
+ 2. Mix of instructions 
+ 3. Mem accesses characterization (stretched)
+ * cf sve-analysis.xlsx spreadsheet
+ * cf. Armie.sh
  
  ## Conclusion
