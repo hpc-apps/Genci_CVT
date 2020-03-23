@@ -1,5 +1,5 @@
-Target : https://community.arm.com/b/hpc
-
+Target 1  : https://community.arm.com/b/hpc
+target 2 : https://hpc-apps.github.io/EXA_PMRA20/
 # OUTLINE (Tentative)
 
 ## Genci
