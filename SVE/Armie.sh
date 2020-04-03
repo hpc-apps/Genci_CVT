@@ -15,9 +15,9 @@ echo "Total SVE" > SVEops-$VL.txt;
 cat SVE-$VL.txt  | awk '{ print $1 }'| sort | awk '{s+=$1} END {print s}' >> SVEops-$VL.txt;
 
 echo "number of ld*" >> SVEops-$VL.txt;
-cat SVE-$VL.txt  | grep st | awk '{ print $1 }'| sort | awk '{s+=$1} END {print s}' >> SVEops-$VL.txt;
-echo "number of st*" >> SVEops-$VL.txt;
 cat SVE-$VL.txt  | grep ld | awk '{ print $1 }'| sort | awk '{s+=$1} END {print s}' >> SVEops-$VL.txt;
+echo "number of st*" >> SVEops-$VL.txt;
+cat SVE-$VL.txt  | grep st | awk '{ print $1 }'| sort | awk '{s+=$1} END {print s}' >> SVEops-$VL.txt;
 echo "number of mov*" >> SVEops-$VL.txt;
 cat SVE-$VL.txt  | grep mov | awk '{ print $1 }'| sort | awk '{s+=$1} END {print s}' >> SVEops-$VL.txt;
 echo "number of fm*" >> SVEops-$VL.txt;
