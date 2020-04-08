@@ -1,0 +1,3 @@
+Core    		1	2	4	8	16
+Elapsed Time (s)	85	36	18	8	3
+
