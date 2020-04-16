@@ -19,18 +19,18 @@
 
 #	Plots
 ## MPI + Laurent (Inti Set up and MPI)
-*	Scaling Apps (All)
+## Scaling Apps (All)
 *	Dynamico (done)
 *	Yales2 (done)
 *	AVBP (done)
 *	HydroF (done)
 *	Nemo (Done)
-*	SpecFEM3D (FD)
+*	SpecFEM3D (Todo - Cerfacs)
 ##	SVE
 *	Dynamico (done)
 *	BigDFT (done)
-*	AVBP (FD)
-*	SpecFEM3D (FD)
+*	AVBP (TODO - Arm/cerfacs)
+*	SpecFEM3D (TODO - Arm)
 *	HydroF (done)
-*	Nemo (Atos)
+*	Nemo (TODO - Atos)
 *	Patmos (Done)
