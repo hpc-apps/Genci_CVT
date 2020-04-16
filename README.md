@@ -17,7 +17,7 @@ OpenCL, HMPP programming frameworks and novel HPC languages including UPC.
 * Yales2 : YALES2 aims at the solving of two-phase combustion from primary atomization to pollutant prediction on massive complex meshes. It is able to handle efficiently unstructured meshes with several billions of elements, thus enabling the Direct Numerical Simulation of laboratory and semi-industrial configurations.
  
  # Scaling
-
+[Contribution guidelines for this project](SCALING/Scaling_OLD.PNG)
  
  # SVE study
 
