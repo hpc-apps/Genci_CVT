@@ -18,7 +18,7 @@
 *	Pic of the system
 
 #	Plots
-## MPI + Laurent (Inti Set up and MPI)
+## Set up of Inti (MPI plots)
 ## Scaling Apps (All)
 *	Dynamico (done)
 *	Yales2 (done)
