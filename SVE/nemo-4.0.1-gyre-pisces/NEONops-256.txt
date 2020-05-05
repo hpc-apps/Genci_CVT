@@ -1,0 +1,10 @@
+Total NEON
+46441649
+number of ld*
+6036083
+number of st*
+2538078
+number of mov*
+478228
+number of fm*
+13891346

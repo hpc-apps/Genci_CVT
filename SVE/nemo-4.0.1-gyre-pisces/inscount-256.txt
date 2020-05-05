@@ -1,0 +1,2 @@
+14060971 instructions executed of which 2555454 were emulated instructions
+

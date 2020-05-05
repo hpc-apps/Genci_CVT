@@ -1,0 +1,11 @@
+########################################
+#          SUMMARY                     #
+########################################
+# VL:                    128 bits
+# Memtrace file:         merge.log
+# Output:                stdout
+########################################
+load/store/total,Total,SVE,non-SVE,SVE-contiguous,SVE-contig-allLanes,SVE-contig-disLanes,SVE-gather/scatter,SVE-gather/scatter-allLanes,SVE-gather/scatter-disLanes
+load,74819246,6921633,67897613,6917044,6852823,64221,4589,4289,300
+store,8129571,2093488,6036083,2076797,2047258,29539,16691,11025,5666
+total,82948817,9015121,73933696,8993841,8900081,93760,21280,15314,5966
