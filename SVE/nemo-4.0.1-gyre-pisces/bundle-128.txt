@@ -1,0 +1,16 @@
+########################################
+#          SUMMARY                     #
+########################################
+# VL:                    128 bits
+# Memtrace file:         merge.log
+# Output:                stdout
+########################################
+VL (bits),#accesses,%accesses
+32,2487,0.0276
+64,97237,1.0786
+96,2,0.0000
+128,8915395,98.8938
+
+Total SVE Accesses      = 9015121
+Avg. Vector Utilization = 127.2832 bits
+Avg. Vector Utilization = 99.4400%

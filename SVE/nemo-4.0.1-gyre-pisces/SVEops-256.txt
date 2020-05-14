@@ -1,0 +1,10 @@
+Total SVE
+12862621
+number of ld*
+3651442
+number of st*
+1276367
+number of mov*
+771603
+number of fm*
+8061351
